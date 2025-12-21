@@ -1,6 +1,6 @@
 {
     "name": "@fsvreddit/eslint-config",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "Shared ESLint configuration for fsvreddit projects",
     "main": "dist/index.js",
     "type": "module",
@@ -19,9 +19,9 @@
     "author": "fsv",
     "license": "BSD-3-Clause",
     "dependencies": {
-        "@eslint/js": "^9.39.2",
+        "@eslint/js": "^9.10.0",
         "@stylistic/eslint-plugin": "^5.2.0",
-        "@vitest/eslint-plugin": "^1.5.4",
+        "@vitest/eslint-plugin": "^1.1.0",
         "typescript": "^5.8.3",
         "typescript-eslint": "^8.50.0"
     },
