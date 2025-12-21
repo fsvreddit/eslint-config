@@ -84,7 +84,7 @@ const fsvconfig: Linter.Config[] = [
         },
     },
     {
-        ignores: ["**/node_modules", "**/dist", "eslint.config.mjs", "**/difflib"],
+        ignores: ["**/node_modules", "**/dist", "eslint.config.mjs"],
     },
 ];
 
