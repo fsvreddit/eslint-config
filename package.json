@@ -1,6 +1,6 @@
 {
     "name": "@fsvreddit/eslint-config",
-    "version": "0.0.8",
+    "version": "0.1.0",
     "description": "Shared ESLint configuration for fsvreddit projects",
     "main": "dist/index.js",
     "type": "module",
@@ -26,7 +26,7 @@
         "typescript-eslint": "^8.50.0"
     },
     "peerDependencies": {
-        "eslint": ">= 9"
+        "eslint": ">= 10"
     },
     "keywords": [
         "eslint"
