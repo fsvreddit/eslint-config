@@ -61,6 +61,7 @@ const fsvconfig: Linter.Config[] = [
 
             // Rules I don't want
             "@typescript-eslint/restrict-template-expressions": "off",
+            "@typescript-eslint/consistent-type-definitions": "off",
 
             // Extra code styling rules
             "@stylistic/array-bracket-newline": ["error", "consistent"],
